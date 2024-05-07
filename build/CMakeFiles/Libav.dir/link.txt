@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibav.a CMakeFiles/Libav.dir/src/Libav.o
+/usr/bin/ranlib libLibav.a
